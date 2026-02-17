@@ -36,14 +36,12 @@ language like Python a Pythion wrapper library was created. All examples
 for using the REST API provided in this Git, are in Python and are using
 the wrapper library.
 
-The library can be installed in different ways:
+The library can be installed directly from the command line using:
 
-\<todo\>
+pip install git+https://github.com/Assimilate-Inc/Assimilate-REST.git
 
 The documentation of the wrapper Python library is available from this
-Git, here.
-
-[Documentation](docs/README.md)
+Git, here: [Documentation](docs/README.md)
 
 **OpenAPI**
 
