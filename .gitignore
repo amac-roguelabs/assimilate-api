@@ -15,3 +15,9 @@ __pycache__/
 .idea/
 *.swp
 *.swo
+
+# Secrets and keys
+.env
+.env.*
+*.pem
+*.key
