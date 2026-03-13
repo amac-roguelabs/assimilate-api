@@ -391,7 +391,6 @@ Class | Method | HTTP request | Description
 *ProjectsApi* | [**set_shot**](docs/ProjectsApi.md#set_shot) | **PUT** /shot/{shot_id} | Shot Set Properties
 *ProjectsApi* | [**set_shot_input**](docs/ProjectsApi.md#set_shot_input) | **PUT** /shot/{shot_id}/inputs/{input_idx} | Input Set Properties
 *SystemApi* | [**add_system_users**](docs/SystemApi.md#add_system_users) | **POST** /system/users/new | System User Add
-*SystemApi* | [**get_system_logs**](docs/SystemApi.md#get_system_logs) | **GET** /system/logs | Get Logs
 *SystemApi* | [**get_system_properties**](docs/SystemApi.md#get_system_properties) | **GET** /system | System Settings Get
 *SystemApi* | [**get_system_users**](docs/SystemApi.md#get_system_users) | **GET** /system/users | System Users List
 *SystemApi* | [**get_system_users_current**](docs/SystemApi.md#get_system_users_current) | **GET** /system/users/current | System User Current
